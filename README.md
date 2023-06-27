@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Raghav Garg
+- 👀 I’m interested in Full Stack development.
+- 🌱 I’m currently learning MERN Stack technologies.
+- 💞️ I’m looking to collaborate on projects involving the use of React.js and Vanilla js.
+- 📫 To reach me - raghavgarg.20343@gmail.com
